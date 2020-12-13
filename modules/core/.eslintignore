@@ -1,0 +1,6 @@
+node_modules
+.idea
+public
+src/vendor/sjcl.min.js
+dist
+browser
